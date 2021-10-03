@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461672012042",
+    "project_id": "incremental-game-a9b78",
+    "firebase_url": "https://console.firebase.google.com/project/incremental-game-a9b78/storage/incremental-game-a9b78.appspot.com/files",
+    "storage_bucket": "incremental-game-a9b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461672012042:android:05b5b1f4cda4c411d0c2f3",
+        "android_client_info": {
+          "package_name": "com.syafira.incrementalgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461672012042-pfbmi3ghqb9p7b26k2ii7rj7dci3jvs6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClYwhRkrchNjXPNZWNLYN1YICB_qb_n90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461672012042-pfbmi3ghqb9p7b26k2ii7rj7dci3jvs6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
